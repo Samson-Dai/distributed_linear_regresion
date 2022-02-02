@@ -1,0 +1,26 @@
+{
+    "id": "669EABF3",
+    "path": "~/Desktop/samson1/CMU/year1_summer/research/nextflow/distributed_linear_regresion/bin/data_creation.R",
+    "project_path": "data_creation.R",
+    "type": "r_source",
+    "hash": "3195434392",
+    "contents": "",
+    "dirty": false,
+    "created": 1643162323846.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "4,16",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1643163583,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1643163583143,
+    "read_only": false,
+    "read_only_alternatives": []
+}
