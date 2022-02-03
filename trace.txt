@@ -1,2 +1,12 @@
 task_id	name	status	exit	time	realtime
-1	fit_linear_model (1)	FAILED	-	-	-
+9	fit_linear_model (9)	COMPLETED	0	-	2s
+5	fit_linear_model (5)	COMPLETED	0	-	2s
+7	fit_linear_model (7)	COMPLETED	0	-	2s
+10	fit_linear_model (10)	COMPLETED	0	-	2s
+4	fit_linear_model (4)	COMPLETED	0	-	2s
+1	fit_linear_model (1)	COMPLETED	0	-	2s
+8	fit_linear_model (8)	COMPLETED	0	-	2s
+2	fit_linear_model (2)	COMPLETED	0	-	2s
+3	fit_linear_model (3)	COMPLETED	0	-	2s
+6	fit_linear_model (6)	COMPLETED	0	-	2s
+11	average_coefficient	COMPLETED	0	-	0ms

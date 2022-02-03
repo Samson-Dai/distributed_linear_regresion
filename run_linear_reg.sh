@@ -1,7 +1,7 @@
 #!/bin/bash
-##SBATCH -p RM-shared
-##SBATCH -t 00:10:00
-##SBATCH --ntasks-per-node=2
+#SBATCH -p RM-shared
+#SBATCH -t 00:10:00
+#SBATCH --ntasks-per-node=2
 
 export NXF_OPTS="-Xms500M -Xmx2G" # limit NF to 2 GB of memory
 
